@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleApp1\WebAppAzureTest\bin\Debug\netcoreapp3.1\publish\WebAppAzureTest.exe
+C:\Users\user\source\repos\ConsoleApp1\WebAppAzureTest\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\user\source\repos\ConsoleApp1\WebAppAzureTest\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\Users\user\source\repos\ConsoleApp1\WebAppAzureTest\bin\Debug\netcoreapp3.1\publish\WebAppAzureTest.dll
+C:\Users\user\source\repos\ConsoleApp1\WebAppAzureTest\bin\Debug\netcoreapp3.1\publish\WebAppAzureTest.deps.json
+C:\Users\user\source\repos\ConsoleApp1\WebAppAzureTest\bin\Debug\netcoreapp3.1\publish\WebAppAzureTest.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp1\WebAppAzureTest\bin\Debug\netcoreapp3.1\publish\WebAppAzureTest.pdb
